@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>App Sprint ASO Updates</title>
+        <link>https://raw.githubusercontent.com/dev-err418/app-sprint-aso-releases/main/appcast.xml</link>
+        <description>Most recent updates to App Sprint ASO.</description>
+        <language>en</language>
+        <!--
+            To publish a new release:
+            1. Build and notarize the .dmg
+            2. Sign it: sparkle/bin/sign_update YourApp.dmg
+            3. Add a new <item> block below with the version, signature, and download URL
+        -->
+    </channel>
+</rss>
