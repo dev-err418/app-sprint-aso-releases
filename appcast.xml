@@ -13,13 +13,13 @@
         -->
         <item>
             <title>Version 1.1.0</title>
-            <pubDate>Sat, 14 Mar 2026 14:24:28 +0100</pubDate>
+            <pubDate>Fri, 14 Mar 2026 15:30:00 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <enclosure
                 url="https://github.com/dev-err418/app-sprint-aso-releases/releases/download/v1.1.0/AppSprintASO-1.1.0.dmg"
-                sparkle:edSignature="8ES/WW/yoHgaWSxZgXk0aIxi9NCm4Nn21WtO/kMnFgw1FR5bRKaMDZw4Px3Rq6hmGebQ8CDf/8NwQavic4yuDQ=="
-                length="7678201"
+                sparkle:edSignature="FiiDe9KF4ef4cs9v/yI0SZLOaCaxItydaBN76VOsu983kYvCwatsSR9bsqTuyAZkWOTWdmnJDCCC/U0Ls+ofAQ=="
+                length="7691421"
                 type="application/octet-stream"
             />
         </item>
