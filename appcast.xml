@@ -11,5 +11,17 @@
             2. Sign it: sparkle/bin/sign_update YourApp.dmg
             3. Add a new <item> block below with the version, signature, and download URL
         -->
+        <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Sat, 14 Mar 2026 14:24:28 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/dev-err418/app-sprint-aso-releases/releases/download/v1.1.0/AppSprintASO-1.1.0.dmg"
+                sparkle:edSignature="iX8cKWmgjapJQZjcVhCswDD2uqt2nNjYw8tLTR+zyfF7OayrrF7bhuokunm6heyxVt31Y/J8WynhSawkuYItDw=="
+                length="7678214"
+                type="application/octet-stream"
+            />
+        </item>
     </channel>
 </rss>
