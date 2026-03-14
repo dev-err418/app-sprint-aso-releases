@@ -18,8 +18,8 @@
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <enclosure
                 url="https://github.com/dev-err418/app-sprint-aso-releases/releases/download/v1.1.0/AppSprintASO-1.1.0.dmg"
-                sparkle:edSignature="+SxdKUokhKRaFN5gZiBuU5N21Apgv+gluijhn8s8tg0ht27xTRlwmhGHybzvUji6U/TesGDCdFmjq/niEvLfDA=="
-                length="7691496"
+                sparkle:edSignature="QomH9tGca44tHbvU7Ad8FR/ECh7Diwr8W/xAMVx7lPzXYPRvILas5e/9E6hSgH0Yu1r3JoC6S3ssckfL2jFyDQ=="
+                length="7691915"
                 type="application/octet-stream"
             />
         </item>
