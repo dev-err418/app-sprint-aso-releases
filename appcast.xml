@@ -23,5 +23,17 @@
                 type="application/octet-stream"
             />
         </item>
+        <item>
+            <title>Version 1.1.1</title>
+            <pubDate>Sun, 16 Mar 2026 15:00:00 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/dev-err418/app-sprint-aso-releases/releases/download/v1.1.1/AppSprintASO-1.1.1.dmg"
+                sparkle:edSignature="MwP9IUJJH+NcwZWTJfXa+rS61snUBE6FIUevPxwAfnyNro9zOFA6W7ReFECMKjCHjnCGjbMF8V7P+PWCtvzUCA=="
+                length="7851587"
+                type="application/octet-stream"
+            />
+        </item>
     </channel>
 </rss>
