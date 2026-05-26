@@ -12,6 +12,18 @@
             3. Add a new <item> block below with the version, signature, and download URL
         -->
         <item>
+            <title>Version 1.4.2</title>
+            <pubDate>Tue, 26 May 2026 16:28:12 +0200</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/dev-err418/app-sprint-aso-releases/releases/download/v1.4.2/AppSprintASO.dmg"
+                sparkle:edSignature="H58dT44IEER0HhBg0cTbeUDB3Ko2BUOvSt0hZob9AeP1/8Hw4Bvbg8UMUG6sHbiBZWH77XFCDBPeBq1wMZlFCA=="
+                length="8407507"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.4.1</title>
             <pubDate>Tue, 19 May 2026 13:49:25 +0200</pubDate>
             <sparkle:version>25</sparkle:version>
